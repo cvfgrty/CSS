@@ -1,0 +1,47 @@
+#id{
+	font-size:50px;
+	font-family:cursive;
+	color:red;
+	background-color:yellow;
+	border:3px solid red;
+}
+p{
+	font-size:50px;
+	font-family:cursive;
+	color:royalblue;
+	background-color:pink;
+	border:3px solid green;
+}
+div{
+	height:400px;
+	width:600px;
+	background-color:pink;
+	border:3px solid green;
+}
+*{
+	font-size:50px;
+	font-family:initial;
+	color:royalblue;
+}
+input[type]{
+	color:red;
+}
+input[placeholder="user@gmail.com"]{
+	color:blue;
+}
+input[type="number"]{
+	color:green;
+}
+input[href]{
+	background-color:violet;
+}
+a:hover{
+	color:red;
+	font-size:100px;
+}
+input:hover{
+	background-color:green;
+}
+input:focus {
+  border-color: green;
+}
